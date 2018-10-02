@@ -11,7 +11,7 @@ Put the `kirby-google-analytics` folder in your `site/plugins` folder.
 Add the snippet as close to the `</body>` tag as possible:
 
 ```php
-<?php snippet('ga') ?>
+<?php snippet('google-analytics') ?>
 ```
 
 💡 Don't forget to [set your property ID](#kirby-configurable-options).
