@@ -22,5 +22,5 @@ If you don't set a property ID (or if it's empty), the snippet won't have any ou
 Set your Google Analytics property ID, e.g. UA-12345678-9 in the config file:
 
 ```php
-c::set('ga.propId', 'UA-12345678-9');
+'bvdputte.ga.propId' => "UA-12345678-9",
 ```
